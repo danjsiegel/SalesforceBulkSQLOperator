@@ -32,7 +32,7 @@ To use the custom operator in your Airflow environment, ensure that you have Apa
     Copy the custom `SalesforceBulkSQLOperator` from this repository into your project’s `dags/lib` or `plugins` directory.
 
     ```bash
-    cp custom_salesforce_operator.py $AIRFLOW_HOME/dags/lib
+    cp SalesforceBulkSQLOperator.py $AIRFLOW_HOME/dags/lib
     ```
 
 3. **Set up Airflow connections:**
