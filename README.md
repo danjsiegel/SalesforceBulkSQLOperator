@@ -23,8 +23,8 @@ To use the custom operator in your Airflow environment, ensure that you have Apa
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/reverse-etl-salesforce.git
-    cd reverse-etl-salesforce
+    git clone https://github.com/danjsiegel/SalesforceBulkSQLOperator.git
+    cd SalesforceBulkSQLOperator
     ```
 
 2. **Add the custom operator to your Airflow DAGs:**
